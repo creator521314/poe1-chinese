@@ -1,0 +1,2 @@
+# PoE1 汉化目标路径（可改成游戏根目录，或直接写 Content.ggpk / _.index.bin 的完整路径）
+D:\game\poe

@@ -1,0 +1,12 @@
+# 本地工作区助手数据（含本机路径与个人笔记），不入库
+.workbuddy/
+
+# 第三方工具二进制：上游 LibGGPK3 声明禁止未授权再分发，且体积较大。
+# 首次运行 run_hanhua.cmd 会自动下载到 tools/，无需提交。
+tools/*.exe
+tools/*.download
+
+# 运行时产物
+backups/
+*.bak
+*.log

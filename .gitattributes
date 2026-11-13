@@ -1,0 +1,6 @@
+# Windows 批处理必须是 CRLF；PowerShell / 文本配置统一 LF
+*.cmd   text eol=crlf
+*.ps1   text eol=lf
+*.txt   text eol=lf
+.gitignore   text eol=lf
+.gitattributes text eol=lf
